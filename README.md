@@ -1,4 +1,4 @@
-# Lab-7: Network File Shares and Permissions
+Network File Shares and Permissions
 
 In this home lab, I will create different network file shares and assign various permissions to a user that was previously created in earlier labs.
 
