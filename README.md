@@ -1,6 +1,23 @@
-Network File Shares and Permissions
+<p align="center">
+  <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
 
-In this home lab, I will create different network file shares and assign various permissions to a user that was previously created in earlier labs.
+<h1>Network File Shares and Permissions using Active Directory in the Cloud (Azure)</h1>
+In this hands-on lab, I will configure multiple network file shares and assign tailored permissions to a user account previously created in earlier labs. This exercise will focus on controlling access to shared resources by defining specific permissions based on the user's role, and ensuring proper security measures are implemented across the network.
+
+<h2>Environments and Technologies Used</h2>
+<ul>
+  <li>Microsoft Azure (Virtual Machines/Compute)</li>
+  <li>Remote Desktop</li>
+  <li>Active Directory Domain Services</li>
+  <li>PowerShell</li>
+</ul>
+
+<h2>Operating Systems Used</h2>
+<ul>
+  <li>Windows Server 2022</li>
+  <li>Windows 10 (21H2)</li>
+</ul>
 
 ## Create Some Sample File Shares with Various Permissions
 
